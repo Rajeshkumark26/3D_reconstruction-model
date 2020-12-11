@@ -11,9 +11,9 @@
 
 ## facebook repository link
 
-1.Paper: https://arxiv.org/pdf/2004.00452.pdf \n
-2.Repo: https://github.com/facebookresearch/pifuhd \n
-3.Project Page: https://shunsukesaito.github.io/PIFuHD/
+1. Paper: https://arxiv.org/pdf/2004.00452.pdf .
+2. Repo: https://github.com/facebookresearch/pifuhd .
+3. Project Page: https://shunsukesaito.github.io/PIFuHD/ .
 
 #### Sample output :
 ![Rajesh)3D_mesh](https://github.com/Rajeshkumark26/3D_reconstruction-model/blob/main/3D-mesh.gif)
