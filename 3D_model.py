@@ -3,12 +3,6 @@
 
 !git clone https://github.com/facebookresearch/pifuhd
 
-"""## Configure input data"""
-
-cd /content/pifuhd/sample_images
-
-"""**If you want to upload your own picture, run the next cell**. Otherwise, go to the next next cell. Currently PNG, JPEG files are supported."""
-
 from google.colab import files
 
 filename = list(files.upload().keys())[0]
