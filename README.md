@@ -1,6 +1,13 @@
 # 2D image to High definition 3D image Reconstruction
 
-## requirements
+## Visit my blog
+https://rajeshkumark26.medium.com/how-i-turned-my-2d-image-into-3d-using-deeplearning-b4e5214092d2
+
+#### Sample output :
+![Rajesh)3D_mesh](https://github.com/Rajeshkumark26/3D_reconstruction-model/blob/main/3D-mesh.gif)
+
+##Requirements
+
 * Python 3
 * PyTorch tested on 1.4.0, 1.5.0
 * json
@@ -15,8 +22,8 @@
 2. Repo: https://github.com/facebookresearch/pifuhd .
 3. Project Page: https://shunsukesaito.github.io/PIFuHD/ .
 
-#### Sample output :
-![Rajesh)3D_mesh](https://github.com/Rajeshkumark26/3D_reconstruction-model/blob/main/3D-mesh.gif)
+
+
 
 
 ## Contacts:
