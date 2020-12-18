@@ -3,7 +3,7 @@
 ## Visit my blog
 https://rajeshkumark26.medium.com/how-i-turned-my-2d-image-into-3d-using-deeplearning-b4e5214092d2
 
-#### Sample output :
+#### My 3D mesh :D :
 ![Rajesh)3D_mesh](https://github.com/Rajeshkumark26/3D_reconstruction-model/blob/main/3D-mesh.gif)
 
 ## Requirements
