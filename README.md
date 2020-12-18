@@ -6,7 +6,7 @@ https://rajeshkumark26.medium.com/how-i-turned-my-2d-image-into-3d-using-deeplea
 #### Sample output :
 ![Rajesh)3D_mesh](https://github.com/Rajeshkumark26/3D_reconstruction-model/blob/main/3D-mesh.gif)
 
-##Requirements
+## Requirements
 
 * Python 3
 * PyTorch tested on 1.4.0, 1.5.0
